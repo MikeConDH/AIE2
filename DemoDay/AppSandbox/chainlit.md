@@ -1,3 +1,7 @@
-# Beyond ChatGPT 
+# ProPrepPal
 
-This Chainlit app was created following instructions from [this repository!](https://github.com/AI-Maker-Space/Beyond-ChatGPT)
+## Welcome to ProPrepPal your personal preparation assistant
+
+## I can help you prepare for a conference, a meeting or an interview
+
+How can I help you today?
