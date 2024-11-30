@@ -1,4 +1,6 @@
-# 🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
+# MikeC AIE2 - AI Makerspace Bootcamp Cohort 2
+
+🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
 
 MIKEC
 
